@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vpsone&show_icons=true&theme=tokyonight&locale=en" alt="vpsone" width="40%"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vpsone&theme=tokyonight" alt="vpsone" width="40%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vpsone&show_icons=true&theme=tokyonight&locale=en" alt="vpsone" width="50%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vpsone&theme=tokyonight" alt="vpsone" width="50%"/></p>
 
 
