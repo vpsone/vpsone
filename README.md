@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm  vpsone</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-
-<h3 align="left">Languages and Tools:</h3>
 <br/>
 <!-- 
 <p align="center">
@@ -38,7 +35,6 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vpsone&show_icons=true&theme=tokyonight&locale=en" alt="vpsone" width="48%"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vpsone&theme=tokyonight" alt="vpsone" width="48%"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vpsone&show_icons=true&theme=tokyonight&locale=en" alt="vpsone" width="48%"/></p>
 
 
